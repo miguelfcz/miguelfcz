@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-  Me chamo Miguel Fonsêca, tenho 19 anos e sou da Paraíba. Atualmente, estou cursando Ciência da Computação no Centro Universitário de João Pessoa (UNIPÊ). Sou apaixonado por tecnologia e sempre tive interesse em seguir carreira na área.
+  Me chamo Miguel Fonsêca, tenho 19 anos e sou da Paraíba. Atualmente, estou cursando Ciência da Computação no Centro Universitário de João Pessoa (UNIPÊ). Sou apaixonado por tecnologia e sempre tive interesse em seguir carreira na área. Aqui, você encontrará todos meus projetos públicos e poderá acompanhar um pouco da minha jornada.
 
 ---
 
