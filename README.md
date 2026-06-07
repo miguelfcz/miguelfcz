@@ -1,45 +1,88 @@
-# 👨🏻‍💻 Miguel Fonsêca
+# 👋 Hi, I'm Miguel Fonsêca
 
-**`Data Analyst | SQL Developer | ETL & BI`**
+<div align="center">
 
-Cientista da Computação em formação (UNIPÊ) com background sólido em **Desenvolvimento Back-end**. Atualmente, foco minha expertise na arquitetura e análise de dados, unindo lógica de programação avançada com inteligência de negócios.
+### Data Analyst | Data Engineering & AI
 
-Especialista em transformar dados brutos em insights estratégicos através de pipelines de **ETL (SSIS)**, modelagem de bancos de dados e visualização de dados de alta performance.
+*Transforming data into scalable solutions and business value*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Fonsêca-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelfcz/)
+[![GitHub](https://img.shields.io/badge/GitHub-miguelfcz-181717?style=flat&logo=github&logoColor=white)](https://github.com/miguelfcz)
 
-### 🛠️ Stack Técnica
-
-**Data Engineering & Analytics:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="35px" title="SQL Server"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="35px" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35px" title="Figma"/>
-</p>
-
-**Development & Infrastructure:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="30px" title="Spring Boot"/>
-</p>
+</div>
 
 ---
 
-### 🚀 Atuação Principal
+## 🚀 About Me
 
-* **Engenharia de Dados (ETL):** Construção e manutenção de pacotes **SSIS** para integração de grandes volumes de dados.
-* **Database Management:** Escrita de queries complexas, Procedures e otimização de performance em SQL Server.
-* **Business Intelligence:** Desenvolvimento de dashboards e prototipagem de interfaces de dados no Figma.
-* **Automação:** Aplicação de Python e Docker para otimização de fluxos de dados.
+Data Analyst with experience in data integration, analytics and business intelligence.
+
+Currently working with SQL Server, SSIS and Power BI, building data solutions that support decision-making and operational efficiency.
+
+Passionate about Data Engineering, Artificial Intelligence and scalable data architectures.
 
 ---
 
-### 📊 Estatísticas
+## 🛠️ Technical Expertise
+
+<div align="center">
+
+| Category | Technologies |
+|-----------|-------------|
+| 🗄️ Data & Analytics | SQL Server · SSIS · Power BI · Python |
+| ⚙️ Data Engineering | Apache Airflow · dbt · Spark · PySpark |
+| ☁️ Cloud | Microsoft Azure |
+| 🚀 DevOps | Docker · Git |
+| 🤖 AI | LLMs · RAG · AI Agents |
+| 🏗️ Data Architecture | ETL / ELT · Data Pipelines · Data Warehousing |
+
+</div>
+
+---
+
+## ⚡ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,docker,git,azure" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+</div>
+
+---
+
+## 📚 Featured Projects
+
+| Project | Stack | Description |
+|----------|-------------|-------------|
+| 📊 Data Pipeline Lab | Python · SQL · Airflow | End-to-end ETL and orchestration experiments |
+| 🤖 AI Assistant | Python · RAG · LLMs | Intelligent assistant powered by modern AI architectures |
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miguelfcz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfcz&theme=tokyonight&layout=compact&custom_title=Skills%20Dominadas&langs_count=9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelfcz&theme=tokyonight" />
 </p>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=miguelfcz&theme=tokyonight"/>
+
+</div>
