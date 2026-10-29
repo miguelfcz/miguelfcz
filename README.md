@@ -1,88 +1,50 @@
-# 👋 Hi, I'm Miguel Fonsêca
+# Miguel Fonseca
 
-<div align="center">
+**Analista de Dados @AeC · Engenharia de IA**
+LLM • RAG • GraphRAG • MCP • Agentes • Fine-Tuning
 
-### Data Analyst | Data Engineering & AI
-
-*Transforming data into scalable solutions and business value*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Fonsêca-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelfcz/)
-[![GitHub](https://img.shields.io/badge/GitHub-miguelfcz-181717?style=flat&logo=github&logoColor=white)](https://github.com/miguelfcz)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelfcz-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelfcz/)
+[![Email](https://img.shields.io/badge/Email-miguelcf2006@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:miguelcf2006@gmail.com)
 
 ---
 
-## 🚀 About Me
+## Sobre
 
-Data Analyst with experience in data integration, analytics and business intelligence.
+Estudante de Ciência da Computação (Unipê, conclusão em 2027) e Analista de Dados na AeC.
+Construo sistemas de IA generativa de ponta a ponta: RAG híbrido, GraphRAG, orquestração de agentes com tool calling/MCP e guardrails, conectados a bancos relacionais, vetoriais e de grafos.
 
-Currently working with SQL Server, SSIS and Power BI, building data solutions that support decision-making and operational efficiency.
-
-Passionate about Data Engineering, Artificial Intelligence and scalable data architectures.
-
----
-
-## 🛠️ Technical Expertise
-
-<div align="center">
-
-| Category | Technologies |
-|-----------|-------------|
-| 🗄️ Data & Analytics | SQL Server · SSIS · Power BI · Python |
-| ⚙️ Data Engineering | Apache Airflow · dbt · Spark · PySpark |
-| ☁️ Cloud | Microsoft Azure |
-| 🚀 DevOps | Docker · Git |
-| 🤖 AI | LLMs · RAG · AI Agents |
-| 🏗️ Data Architecture | ETL / ELT · Data Pipelines · Data Warehousing |
-
-</div>
+Na AeC, trabalho com ETL (SSIS + SQL Server) e Power BI, refatorando dashboards e adicionando insights interativos aos indicadores.
 
 ---
 
-## ⚡ Technology Stack
+## Projetos em destaque
 
-<div align="center">
+### [RAG Jurídico](https://github.com/miguelfcz/rag-juridico)
+Hybrid RAG + GraphRAG com agente e guardrails para análise de contratos e processos.
+- Busca híbrida no **Qdrant** (embeddings densos Vertex AI + BM25 esparso, fusão RRF)
+- Grafo de conhecimento no **FalkorDB**, extraído por LLM a partir de PDF/MD/TXT
+- Agente com function calling que orquestra SQL (**PostgreSQL via MCP**), grafo e busca híbrida
+- Guardrails de entrada e saída: mascaramento de CPF/CNPJ e verificação de citações
 
-<img src="https://skillicons.dev/icons?i=python,docker,git,azure" />
+`Python` `Streamlit` `Qdrant` `FalkorDB` `PostgreSQL` `Gemini` `MCP`
 
-<br><br>
+### [YouTube Data Pipeline & AI Copilot](https://github.com/miguelfcz/Youtube-API-Data-Project)
+Pipeline ELT com qualidade de dados e camada de IA.
+- ETL orquestrado com **Airflow**, Data Warehouse em PostgreSQL, tudo em **Docker Compose**
+- Validação com **Soda Core**; o Gemini gera relatório executivo ou explica anomalias
+- Chatbot RAG (FastAPI) sobre o código e os relatórios do projeto
+- CI com **GitHub Actions** + testes com Pytest
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-</div>
-
----
-
-## 📚 Featured Projects
-
-| Project | Stack | Description |
-|----------|-------------|-------------|
-| 📊 Data Pipeline Lab | Python · SQL · Airflow | End-to-end ETL and orchestration experiments |
-| 🤖 AI Assistant | Python · RAG · LLMs | Intelligent assistant powered by modern AI architectures |
+`Python` `Airflow` `PostgreSQL` `Soda Core` `Docker` `FastAPI` `Gemini`
 
 ---
 
-## 📊 GitHub Statistics
+## Stack
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelfcz&theme=tokyonight" />
-</p>
+| Área | Tecnologias |
+|---|---|
+| IA e LLMs | RAG híbrido, GraphRAG, agentes e orquestração multiagente, MCP, guardrails, Fine-Tuning (LoRA/PEFT), Gemini/Vertex AI, LangChain, Ollama |
+| Dados e bancos | Python, SQL, PostgreSQL, SQL Server, SSIS, Airflow, Qdrant, FalkorDB, Power BI |
+| Engenharia | Docker, Git, GitHub Actions, Pytest, FastAPI, Streamlit, Java/Spring, Azure |
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=miguelfcz&theme=tokyonight"/>
-
-</div>
+**Certificação:** Microsoft Certified: Azure Data Fundamentals (DP-900)
