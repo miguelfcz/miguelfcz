@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Miguel%20Fonseca&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Miguel%20Fonseca&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer&descSize=20&descAlignY=60" width="100%"/>
 
 <a href="https://github.com/miguelfcz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=RAG+H%C3%ADbrido+%2B+GraphRAG+em+produ%C3%A7%C3%A3o;Agentes+com+Tool+Calling+%2B+MCP;Orquestra%C3%A7%C3%A3o+Multiagente;Fine-Tuning+LoRA+%2B+LLMs+locais+(Ollama);Guardrails+e+IA+rastre%C3%A1vel" alt="Typing SVG" />
